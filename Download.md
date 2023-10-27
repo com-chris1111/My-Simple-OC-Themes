@@ -9,6 +9,9 @@ Themes for OpenCore 0.7.0 and Higher|
 
 ---
 
+- Download ➤ [Apple-Fast](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Apple-Fast.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Apple-Fast.png">
+
 - Download ➤ [Flavours-Flash](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Flash.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Flash.png">
 
